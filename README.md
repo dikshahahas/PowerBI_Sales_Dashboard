@@ -1,2 +1,47 @@
-# PowerBI_Sales_Dashboard
-Interactive Power BI dashboard analyzing sales performance across regions, products, and time with actionable business insights.
+
+# 📊 Power BI Sales Dashboard
+
+![Dashboard Preview](./assets/dashboard.png)
+
+## 📌 Overview
+This project showcases an interactive **Power BI Sales Dashboard** designed to analyze sales performance across regions, products, and time.  
+It provides clear insights into revenue trends, top-performing categories, and business patterns.
+
+---
+
+## 🎯 Objectives
+- Analyze overall sales performance  
+- Identify top-performing products and regions  
+- Track monthly sales trends  
+- Enable interactive data exploration  
+
+---
+
+## 📈 Key Metrics
+- **Total Revenue:** 2.36M  
+- **Total Orders:** 41  
+
+---
+
+## 📊 Insights
+- 📍 Chennai is the highest revenue-generating region  
+- 💻 Laptops contribute the most to total sales  
+- 📅 Sales vary across months, indicating trends  
+
+---
+
+## ⚙️ Features
+- Region-wise sales analysis  
+- Product-level performance comparison  
+- Monthly trend visualization  
+- Interactive filters (Region & Product)  
+
+---
+
+## 🛠️ Tools Used
+- Power BI Desktop  
+- Microsoft Excel  
+
+---
+
+## 📂 Project Structure
