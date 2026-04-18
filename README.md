@@ -45,3 +45,26 @@ It provides clear insights into revenue trends, top-performing categories, and b
 ---
 
 ## 📂 Project Structure
+PowerBI_Sales_Dashboard/
+│
+├── data/
+│ └── sales_data_powerbi.xlsx
+│
+├── dashboard/
+│ └── sales_dashboard.pbix
+│
+├── assets/
+│ └── dashboard.png
+│
+└── README.md
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file from the `dashboard` folder  
+2. Open it in Power BI Desktop  
+3. Explore the dashboard using filters  
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
